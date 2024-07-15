@@ -1,7 +1,7 @@
 # MOwNiT-2023-2024
 Repository for MOwNiT (Metody Obliczeniowe w Nauce i Technice) course at AGH University
 
-Każdy z folderów **lab*i*, i=1,2,...,11** zawiera pokazane podczas zajęć i później, z ewentualnymi drobnymi poprawkami umieszczone na Teamsie przeze mnie i przez kolegę <insert kolega> sprawozdanie w pliku *sprawko.pdf*, ponadto plik *kod.ipynb* zawierający kod programów używanych do laboratorium z krótkimi opisami jako jupyter notebook oraz podkatalog **materiały**, zawierający polecenia zadań na dane laboratoria i dodatkowe materiały pomocnicze od dr Kuty, jeśli takie zostały udostępnione.
+Każdy z folderów **lab*i*, i=1,2,...,11** zawiera pokazane podczas zajęć i później, z ewentualnymi drobnymi poprawkami umieszczone na Teamsie przeze mnie i przez [kolegę](https://github.com/yakimk) sprawozdanie w pliku *sprawko.pdf*, ponadto plik *notebook.ipynb* zawierający kod programów używanych do laboratorium z krótkimi opisami oraz podkatalog **materiały**, zawierający polecenia zadań na dane laboratoria i dodatkowe materiały pomocnicze od dr Kuty, jeśli takie zostały udostępnione.
 
 Dodatkowo, jest także folder **lab0**, zawierający opis postaci sprawozdania, jakiej oczekiwał dr Kuta oraz prezentację wprowadzającą, pokazaną na pierwszych zajęciach.
 
