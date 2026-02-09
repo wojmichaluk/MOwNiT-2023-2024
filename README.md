@@ -1,5 +1,4 @@
 # MOwNiT_2023_2024
-
 ### Repository for MOwNiT (Metody Obliczeniowe w Nauce i Technice - Computational Methods in Science and Technology) course at AGH University
 
 Każdy z folderów **lab*i*, i=1,2,...,11** zawiera pokazane podczas zajęć i później, z ewentualnymi drobnymi poprawkami umieszczone na Teamsie przeze mnie i przez [kolegę](https://github.com/yakimk), z którym wspólnie robiłem wszystkie laboratoria, sprawozdanie w pliku *sprawko.pdf*, ponadto plik *notebook.ipynb* zawierający kod programów używanych do laboratorium z krótkimi opisami oraz podkatalog **materiały**, zawierający polecenia zadań na dane laboratoria i dodatkowe materiały pomocnicze od dr Kuty, jeśli takie zostały udostępnione.
